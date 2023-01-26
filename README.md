@@ -4,8 +4,9 @@ H.A.R.N. (Hydro-farming with Autonomous Regulation of Nutrients) is a plant nutr
 # <a name="toc">Table of Contents</a>
 1. [Introduction](#intro)
 2. [Dataset](#ds)
-3. [Installation Guide](#install)
-4. [Screenshots](#ss)
+3. [Technologies Used](#tech)
+4. [Installation Guide](#install)
+5. [Screenshots](#ss)
 
 # 1. <a name="intro">Introduction</a>
 ###### [Back to Table of Contents](#toc)
@@ -17,7 +18,10 @@ The paper referred provides a detailed process: [Using Deep Convolutional Neural
 ###### [Back to Table of Contents](#toc)
 Dataset is labeled and available here: [Google Drive](https://drive.google.com/drive/folders/1kfX8iL_A2MK-XbGqOowDwzDv0PWAO7Y6?usp=sharing)
 
-# 3. <a name="install">Installation Guide</a>
+# 3. <a name="tech">Technologies Used</a>
+###### [Back to Table of Contents](#toc)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+# 4. <a name="install">Installation Guide</a>
 ###### [Back to Table of Contents](#toc)
 > Note: I have used Git Bash for the project and provided the code for the same.
 - Create a folder in your local machine.
@@ -39,20 +43,20 @@ source {whatever_virtual_env_name_you_want_to_give}/scripts/activate
 pip install -r requirements.txt
 ```
 
-# 4. <a name="ss">Screenshorts</a>
+# 5. <a name="ss">Screenshorts</a>
 ###### [Back to Table of Contents](#toc)
 
-### 4.1. Home page
+### 5.1. Home page
 ![ss1](https://user-images.githubusercontent.com/72343934/214845647-6f7a53e4-015f-474c-9d9a-372348203d0e.png)
 
-### 4.2. K Deficiency detection
+### 5.2. K Deficiency detection
 ![ss2](https://user-images.githubusercontent.com/72343934/214845702-d4062640-e4e8-433a-8e43-ad2a9087940d.png)
 
-### 4.3. N Deficiency detection
+### 5.3. N Deficiency detection
 ![ss3](https://user-images.githubusercontent.com/72343934/214845732-5ec18963-2b15-4351-a869-d8114478a0a2.png)
 
-### 4.4. P Deficiency detection
+### 5.4. P Deficiency detection
 ![ss4](https://user-images.githubusercontent.com/72343934/214845750-92f04ff7-9c08-42bc-91fd-74840ec7870a.png)
 
-### 4.5. Healthy Rice leaf detection
+### 5.5. Healthy Rice leaf detection
 ![ss5](https://user-images.githubusercontent.com/72343934/214845762-67d87804-ed32-45ca-8eba-5fb4fe80ba27.png)
